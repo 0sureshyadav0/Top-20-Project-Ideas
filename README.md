@@ -55,7 +55,7 @@ This repository is open-source and available under the [**MIT License**](https:/
 
 ## 💬 Feedback and Support
 
-If you have any questions, feedback, or need help developing one of these ideas, feel free to open an issue or contact us at [hi@sureshyadav.info.np](mailto:hi@sureshyadav.info.np). We'd love to hear from you!
+If you have any questions, feedback, or need help developing one of these ideas, feel free to open an issue or contact us at [hi@sureshyadav.info.np](mailto:hi@sureshyadav.info.np?subject=Feedback%20on%20Flutter%20Project%20Ideas&body=Hi%20Team,%0A%0AI%20wanted%20to%20share%20the%20following%20feedback%20or%20idea:%0A%0A). We'd love to hear from you!
 
 ---
 

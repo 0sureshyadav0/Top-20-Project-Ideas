@@ -55,7 +55,7 @@ This repository is open-source and available under the [**MIT License**](https:/
 
 ## 💬 Feedback and Support
 
-If you have any questions, feedback, or need help developing one of these ideas, feel free to open an issue or contact us at [your email/handle]. We'd love to hear from you!
+If you have any questions, feedback, or need help developing one of these ideas, feel free to open an issue or contact us at [hi@sureshyadav.info.np](mailto:hi@sureshyadav.info.np). We'd love to hear from you!
 
 ---
 

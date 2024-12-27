@@ -24,7 +24,7 @@ Whether you're a seasoned developer looking for your next challenge or a beginne
 4. **Augmented Reality Personal Stylist**: Suggest outfits from your wardrobe using AR.  
 5. **Zero Waste Grocery Helper**: Reduce food waste by generating recipes from leftover groceries.
 
-Explore the full list of ideas [here]().
+Explore the full list of ideas [here](https://github.com/0sureshyadav0/Top-20-Project-Ideas/blob/main/PROJECTS.md).
 
 ---
 

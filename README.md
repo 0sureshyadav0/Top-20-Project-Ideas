@@ -1,4 +1,4 @@
-# Unique Flutter Project Ideas Repository 🚀
+# Unique Project Ideas 🚀
 
 Welcome to the **Unique Flutter Project Ideas** repository! This is a curated collection of innovative and groundbreaking app concepts that can be built using Flutter, the open-source UI framework by Google. These ideas focus on **novelty, practicality, and mass appeal**, designed to inspire developers and help them create impactful and popular projects.
 

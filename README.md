@@ -49,7 +49,7 @@ Make sure your submissions align with the theme of originality and practical app
 
 ## 📄 License
 
-This repository is open-source and available under the **MIT License**. Feel free to use, modify, and distribute the content as long as proper attribution is given.
+This repository is open-source and available under the [**MIT License**](https://github.com/0sureshyadav0/Top-20-Project-Ideas/blob/main/LICENSE.txt). Feel free to use, modify, and distribute the content as long as proper attribution is given.
 
 ---
 
